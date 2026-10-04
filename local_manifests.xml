@@ -2,7 +2,7 @@
 <manifest>
   
   <!-- Remotes -->
-  <remote name="sakurajima07" fetch="https://github.com/Sakurajima07" />
+  <remote name="sakurajima07" fetch="https://github.com/sakurajima-dev" />
   
   <!-- Device Trees -->
   <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="sakurajima07" revision="lineage-23.0" />
